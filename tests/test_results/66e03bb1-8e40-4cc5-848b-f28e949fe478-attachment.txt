@@ -1,0 +1,18 @@
+Current url https://www.strunki.ru/
+Click Login Button
+Input Email
+Input Password
+Click Enter Button
+Click Amp/FX
+Click Guitar Cabinets
+Current url https://www.strunki.ru/catalog/gain__effects/gitarnye-kabinety
+Input Filter Min
+Click Show Button
+Input Filter Max
+Click Show Button
+Click Factory
+Click Joyo Checkbox
+Click Show Button
+Click Item 44565
+Current url https://www.strunki.ru/catalog/gain__effects/212v-kabinet-gitarnyy-zakrytyy-2h12-celestion-vintage-30-joyo
+Item is Out Of Stock

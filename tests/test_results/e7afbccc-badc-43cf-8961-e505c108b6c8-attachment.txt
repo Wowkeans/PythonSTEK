@@ -1,0 +1,30 @@
+Current url https://www.strunki.ru/
+Click Login Button
+Input Email
+Input Password
+Click Enter Button
+Click Strings
+Click 6 Strings
+Current url https://www.strunki.ru/catalog/electric_guitar_strings/strings_electric_6
+Input Filter Min
+Click Show Button
+Input Filter Max
+Click Show Button
+Click Factory
+Click GHS Checkbox
+Click Caliber
+Click 10-46 Checkbox
+Click Show Button
+Click Item 642
+Current url https://www.strunki.ru/catalog/electric_guitar_strings/ghs-coated-boomers-cb-gbl-10-13-17-26-36-46
+Click Add to Cart
+Click Order Now
+Click Cart
+Click Go to Cart
+Current url https://www.strunki.ru/cart
+Current url https://www.strunki.ru/cart
+Input Full Name
+Input Phone Number
+Input Address
+Click Clear Cart Button
+Click Yes Button

@@ -1,0 +1,28 @@
+Current url https://www.strunki.ru/
+Click Login Button
+Input Email
+Input Password
+Click Enter Button
+Click Electronics
+Click Jacks
+Current url https://www.strunki.ru/catalog/electricparts/electricparts__big_jack
+Input Filter Min
+Click Show Button
+Input Filter Max
+Click Show Button
+Click Factory
+Click Canare Checkbox
+Click Show Button
+Click Item 18025
+Current url https://www.strunki.ru/catalog/electricparts/canare-f-16-stereo-dzhek-pryamojj-6-3-mm-metall
+Click Add to Cart
+Item Added
+Click Cart
+Click Go to Cart
+Current url https://www.strunki.ru/cart
+Current url https://www.strunki.ru/cart
+Input Full Name
+Input Phone Number
+Input Address
+Click Clear Cart Button
+Click Yes Button
